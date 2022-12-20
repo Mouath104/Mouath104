@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mouath104
-- 👀 I’m interested in Programming, games and life (duh).
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in Programming, games and life.
+- 🌱 I’m currently learning Django, JS and CSS
 - 📫 How to reach me : mouathalmobaslat@gmail.com
 
 <!---
